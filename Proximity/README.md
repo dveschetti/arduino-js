@@ -44,6 +44,6 @@ http://localhost:3000/<br/>
 <a href="https://www.arduino.cc/en/software">Arduino IDE</a><br/>
 <a href="http://johnny-five.io/">Johnny-five</a><br/>
 <a href="https://nodejs.org/en/">Node js</a><br/>
-<a href="https://code.visualstudio.com/">Visual studio code</a>
+<a href="https://code.visualstudio.com/">Visual studio code</a><br/>
 <a href="http://johnny-five.io/api/proximity/#pingfirmata">PingFirmata</a>
 
