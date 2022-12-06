@@ -25,7 +25,7 @@ Load sketch onto board.<br />
 <a href="https://www.youtube.com/watch?v=2L8YYJpfuvE">If you have problems look here.</a>
 
 ## How to use
-Open the folder on visual studio code. PingFirmata must be loaded onto Arduino-compatible boards to enable this component: <br/>
+Open the folder on visual studio code. PingFirmata must be loaded onto Arduino-compatible boards to enable the proximity component: <br/>
 ```
 $ npm install nodebots-interchange
 ```
