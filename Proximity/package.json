@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A simple example of arduino + johnny five",
   "main": "index.js",
-  "author": "Leonardo Angelucci",
+  "author": "Leonardo Angelucci, Desirée Veschetti",
   "private": true,
   "license": "",
   "dependencies": {

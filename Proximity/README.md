@@ -1,9 +1,9 @@
 
-# Potentiometer: Socket.IO + Jhonny five
-A simple example of jhonny five + socket by Leonardo Angelucci
+# Potentiometer: Socket.IO + Johnny five
+A simple example of johnny five + socket by Leonardo Angelucci and Desirée Veschetti
 
 # Arduino 
-<img src="http://johnny-five.io/img/breadboard/potentiometer.png" width="450">
+<img src="http://johnny-five.io/img/breadboard/proximity-hcsr04.png" width="450">
 
 ## Node js
 Install Node.js >= 0.10.x <br />
@@ -26,6 +26,14 @@ Load sketch onto board.<br />
 
 ## How to use
 Open the folder on visual studio code <br/>
+```
+$ npm install nodebots-interchange
+```
+issue the following instruction with the serial port your arduino is plugged into instead of "<port>" <br/>
+```
+$ interchange install hc-sr04 -a uno -p <port> --firmata
+```
+start your server with the direction below <br/>
 ```
 $ npm start
 ```
