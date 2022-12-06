@@ -1,5 +1,5 @@
 
-# Potentiometer: Socket.IO + Johnny five
+# Proximity: Socket.IO + Johnny five
 A simple example of johnny five + socket by Leonardo Angelucci and Desirée Veschetti
 
 # Arduino 
